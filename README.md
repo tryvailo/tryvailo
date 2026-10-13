@@ -2,17 +2,15 @@
 
 **Product, AI & Technology Leader · Hands-on Product Builder · UK**
 
-I turn business problems into product direction, working software and practical AI workflows. My background spans 15+ years in software, product and technology leadership, with a focus on commercial value, useful automation and evidence-based decisions.
+I turn business problems into product direction, working software and practical AI workflows, drawing on 15+ years in software, product and technology leadership.
 
-These three live products represent my hands-on work across healthcare intelligence, AI visibility and consumer platforms. I use AI coding tools as part of my development workflow, alongside product research, architecture decisions, APIs and release work.
+My hands-on portfolio spans healthcare intelligence, AI visibility and consumer platforms. I combine product research, architecture, APIs and release work with AI-assisted development.
 
 ## Selected products
 
-| Product           | What it helps people do                                                                                                      | Explore                                                                                                                                       |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **ClinGEO**       | Understand how AI search represents a clinic, identify visibility gaps and turn research into reviewed, publishable content. | [Live product](https://www.clingeo.com/en) · [Case study](https://github.com/tryvailo/tryvailo/blob/main/case-studies/clingeo.md)             |
-| **RightCareHome** | Find care homes, assess the available evidence and understand care costs and funding options.                                | [Live product](https://www.rightcarehome.co.uk/) · [Case study](https://github.com/tryvailo/tryvailo/blob/main/case-studies/rightcarehome.md) |
-| **Cognac Nation** | Discover bottles, explore brands and regions, manage collections and contribute to a specialist community.                   | [Live product](https://cognacnation.com/) · [Case study](https://github.com/tryvailo/tryvailo/blob/main/case-studies/cognac-nation.md)        |
+- **ClinGEO** — clinic AI visibility and content workflows. [Website](https://www.clingeo.com/en) · [Case study](https://github.com/tryvailo/tryvailo/blob/main/case-studies/clingeo.md)
+- **RightCareHome** — care-home evidence, matching and funding. [Website](https://www.rightcarehome.co.uk/) · [Case study](https://github.com/tryvailo/tryvailo/blob/main/case-studies/rightcarehome.md)
+- **Cognac Nation** — product discovery, collections and community. [Website](https://cognacnation.com/) · [Case study](https://github.com/tryvailo/tryvailo/blob/main/case-studies/cognac-nation.md)
 
 ### ClinGEO — AI visibility and content operations for clinics
 
