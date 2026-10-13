@@ -1,0 +1,33 @@
+{
+  "measured_on": "2026-10-13",
+  "tool": "cloc",
+  "version": "2.10",
+  "cloc_source_sha256": "bf59272455172108072a0a106379f7509fd4349bdcfd85203bac038ccd286d83",
+  "unit": "physical source lines excluding comments and blank lines",
+  "projects": [
+    {
+      "name": "ClinGEO",
+      "snapshot_commit_date": "2026-10-09",
+      "application_source_lines": 294688,
+      "selected_product_module_lines": 88718,
+      "test_source_lines": 163522,
+      "selected_product_module_files": 319
+    },
+    {
+      "name": "RightCareHome",
+      "snapshot_commit_date": "2026-10-12",
+      "application_source_lines": 461443,
+      "selected_product_module_lines": 82640,
+      "test_source_lines": 132821,
+      "selected_product_module_files": 340
+    },
+    {
+      "name": "Cognac Nation",
+      "snapshot_commit_date": "2026-10-05",
+      "application_source_lines": 200501,
+      "selected_product_module_lines": 52556,
+      "test_source_lines": 61793,
+      "selected_product_module_files": 247
+    }
+  ]
+}
