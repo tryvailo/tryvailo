@@ -1,67 +1,95 @@
 # Aleksandr Tryvailo
 
-**Product, AI & Technology Leader · Hands-on Product Builder · UK**
+**AI-native Product Builder · Product & AI Leader · UK**
 
-I turn business problems into product direction, working software and practical AI workflows, drawing on 15+ years in software, product and technology leadership.
+I turn business problems into AI-powered products, combining commercial product judgement with hands-on building.
 
-My hands-on portfolio focuses on applying agentic AI to real business and consumer problems: clinic visibility, care decisions and specialist product discovery. I combine product research, architecture, APIs and release work with AI-assisted development, building workflows that connect AI reasoning to data, tools and useful actions.
+Across my own products, I shape the proposition, design the experience and build the AI capabilities behind it: agents, orchestration, semantic analysis, generative workflows, guardrails and evaluation. I use AI coding agents throughout development, with personal ownership of product decisions, architecture, integration and verification. My portfolio also includes a co-built B2B AI product, with my contribution identified separately below.
 
-## Selected products
+My background spans 15+ years in software, product and technology, including CPO/COO roles and enterprise AI leadership. These projects show how I apply that experience as a builder.
 
-- **ClinGEO** — agentic AI for clinic SEO, AI search visibility and content operations. [Website](https://www.clingeo.com/en) · [Case study](https://github.com/tryvailo/tryvailo/blob/main/case-studies/clingeo.md)
-- **RightCareHome** — agentic care intelligence for evidence, matching and funding decisions. [Website](https://www.rightcarehome.co.uk/) · [Case study](https://github.com/tryvailo/tryvailo/blob/main/case-studies/rightcarehome.md)
-- **Cognac Nation** — AI-assisted cognac selection, product discovery and community. [Website](https://cognacnation.com/) · [Case study](https://github.com/tryvailo/tryvailo/blob/main/case-studies/cognac-nation.md)
+[LinkedIn](https://www.linkedin.com/in/trivaylo/) · **Product demos and technical walkthroughs available on request.**
 
-### ClinGEO — an agentic AI system for clinic visibility and growth
+## Selected AI products
 
-An agentic AI platform for clinic SEO and generative engine optimisation (GEO): understanding how AI search represents a clinic, identifying visibility gaps and turning those findings into practical improvements.
+### ClinGEO — AI visibility and agentic content operations
 
-The system coordinates research, AI response analysis, website audits, recommendations and content production around shared clinic context. Its agentic workflows connect LLM reasoning with external APIs, structured evidence and editorial tools, taking work from analysis through review and publishing.
+[Website](https://www.clingeo.com/en)
 
-- Service and location-based AI response analysis, competitor comparisons, technical audits and content opportunities.
-- Orchestrated AI workflows for research, analysis and recommendations, with structured outputs and source context.
-- A Content Hub workflow from brief and source research through generation, human review, version history and publishing.
-- A clinic growth assistant that turns findings into prioritised weekly tasks and tracks their status and verification.
-- Structured clinic context, API integrations and analytics that support the next product or content decision.
+A healthcare SEO and AI visibility platform that helps clinic marketing teams understand how their services appear in AI search, identify opportunities and prepare content for expert review.
 
-**Stack:** TypeScript, Next.js, React, Supabase/PostgreSQL, LLM APIs, WordPress integrations, Vercel.
+**AI capabilities I have built into the product:**
 
-### RightCareHome — agentic AI applied to care decisions
+- **AI visibility intelligence:** analysis of AI responses, service visibility and competitor presence to inform marketing priorities.
+- **Agentic research and content generation:** orchestrated AI workflows for research, planning, writing and revision, informed by clinic context and supporting sources.
+- **AI-assisted editorial collaboration:** content refinement around reviewer feedback, version history and human approval before publication.
+- **Growth assistance:** prioritised actions that connect analytical findings with the team's ongoing work.
+- **Generative visual content:** AI-generated imagery supporting content production.
+- **Guardrails and evaluation:** source checks, output validation, quality assessment and model evaluation tooling.
 
-A UK care intelligence platform applying agentic AI tools and workflows to a traditional sector: helping families find, assess and understand care homes.
+**What this demonstrates:** building a product around connected AI capabilities, with attention to context, quality, human oversight and operating cost.
 
-The product brings fragmented public information into coordinated research, enrichment, analysis and reporting workflows. AI helps extract and interpret evidence, while domain engines handle matching and calculations. This combination turns complex information into clearer options, questions and next steps for families.
+### RightCareHome — AI intelligence for care and funding decisions
 
-- Geographic search and evidence profiles covering inspection history, ownership, available financial records, fees and local context.
-- Orchestrated data enrichment and AI-assisted analysis of public records and review patterns.
-- Care Home Check, Care Home Matching Report and Care Home Funding Report journeys.
-- Shared domain engines for matching, calculations, enrichment and report generation, with explicit treatment of missing or uncertain evidence.
+[Website](https://www.rightcarehome.co.uk/)
 
-**Stack:** TypeScript, Next.js, React, Supabase/PostgreSQL, LLM APIs, data integrations, workflow orchestration, background jobs, Vercel.
+A UK care intelligence platform that turns fragmented information into clearer choices for families, combining LLM-powered analysis with care matching and funding tools.
 
-### Cognac Nation — AI-assisted discovery, selection and community
+**AI capabilities I have built into the product:**
 
-A consumer platform combining a structured cognac catalogue, an AI assistant for choosing cognacs, collection management and community contributions.
+- **Semantic review intelligence:** analysis of themes, sentiment, contrasting experiences and emerging concerns across care-home reviews.
+- **Customer experience insights:** surfacing what families value, the concerns they describe and questions worth asking before making a decision.
+- **Staff experience analysis:** LLM-powered interpretation of staff-related evidence and review narratives.
+- **Personalised funding explanations:** AI-assisted interpretation of care-funding scenarios, financial implications and practical next steps.
+- **AI-supported decision reports:** bringing analysis and relevant evidence into matching, care assessment and funding journeys.
+- **Guardrails and quality evaluation:** checks on factual consistency, uncertainty and the suitability of generated guidance.
 
-The product applies AI to a specialist consumer niche, helping people navigate product choices while connecting discovery with catalogue information, reviews and available seller offers. AI-assisted content and catalogue workflows also support the operational work behind the platform.
+**What this demonstrates:** using LLMs as distinct product capabilities for semantic intelligence and decision support in a sensitive, complex domain.
 
-- An AI assistant to help users choose cognacs and navigate the catalogue.
-- Bottle, brand and region discovery, search, reviews, ratings, collections and wishlists.
-- Catalogue enrichment, seller offer feeds and editorial content workflows.
-- Creator and merchant workspaces, submission review and administration workflows.
+### Nolina AI — B2B prospecting and outbound intelligence
 
-**Stack:** TypeScript, Next.js, React, Supabase/PostgreSQL, LLM APIs, Tailwind CSS, Vercel.
+**Role: Co-builder**
 
-## Codebase scale
+An AI-powered B2B platform that helps sales teams find relevant accounts and decision-makers, assess why an account may be worth approaching now, and prepare personalised outreach. It connects prospect research, qualification, messaging and response handling in one workflow.
 
-Measured on **13 October 2026**, using committed local snapshots and `cloc 2.10`. Blank lines, comments, generated files and dependencies are excluded; test source is counted separately.
+I helped conceive and co-build the product, contributing product direction, core AI workflows, LLM integrations and external APIs.
 
-| Product       | Selected product modules | Application source |
-| ------------- | -----------------------: | -----------------: |
-| ClinGEO       |         **88,718 lines** |      294,688 lines |
-| RightCareHome |         **82,640 lines** |      461,443 lines |
-| Cognac Nation |         **52,556 lines** |      200,501 lines |
+**AI capabilities I helped shape and build:**
 
-Selected product modules are a deliberately scoped subset of each application. Application totals include shared infrastructure and the Makerkit foundation. These figures describe codebase size, not individual authorship or a measure of product quality. [Scope, exclusions and detailed statistics](https://github.com/tryvailo/tryvailo/blob/main/metrics/README.md).
+- **AI-assisted account and buyer discovery:** researching relevant companies and identifying potential decision-makers.
+- **Buying-signal intelligence:** identifying and assessing public signals in the context of the customer's offer.
+- **Lead qualification and prioritisation:** evaluating relevance to the customer's ideal customer profile.
+- **Contextual outreach generation:** preparing personalised messages grounded in relevant prospect information.
+- **Reply intelligence and follow-up workflows:** interpreting responses to inform the next appropriate action.
+- **AI orchestration and guardrails:** connecting research and messaging with evidence checks, content validation and human review.
 
-The implementation repositories remain private. This portfolio shares product descriptions, public links and aggregate statistics.
+**What this demonstrates:** co-building a B2B AI product that turns research and contextual reasoning into practical customer-acquisition workflows.
+
+### Cognac Nation — personalised discovery and AI-assisted selection
+
+[Website](https://cognacnation.com/)
+
+A specialist discovery and marketplace platform combining a structured cognac catalogue, personalised selection and AI-assisted explanations.
+
+**AI capabilities I have built into the product:**
+
+- **Preference-led discovery:** helping people navigate a specialist catalogue around their tastes and interests.
+- **AI-assisted explanations:** making product choices easier to understand through relevant catalogue information.
+- **Grounded recommendations:** attention to the evidence behind product descriptions and the limits of available information.
+- **Evaluation and guardrails:** quality checks for recommendations and generated explanations.
+
+**What this demonstrates:** translating domain knowledge into an accessible consumer AI experience, with attention to relevance, trust and commercial context.
+
+## Applied AI expertise
+
+**AI agents & orchestration · Semantic analysis · Context grounding · Generative AI · Guardrails · Evaluation & regression testing · Human-in-the-loop workflows · AI cost and quality trade-offs**
+
+Hands-on development with **TypeScript, JavaScript, Node.js, Next.js, Supabase/PostgreSQL and LLM APIs**, using **Claude Code and OpenAI Codex** as part of my development workflow.
+
+## Explore the work
+
+The implementation repositories are private because these are commercial products. I can discuss my product contributions and technical trade-offs in an interview. Demos and walkthroughs are agreed per project.
+
+**Request a demo or technical conversation. For products I own, selected code access can be discussed where appropriate, under NDA.**
+
+[Get in touch on LinkedIn](https://www.linkedin.com/in/trivaylo/)
