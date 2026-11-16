@@ -10,7 +10,7 @@ I combine product strategy, commercial ownership and team leadership with hands-
 
 ## Product leadership in practice
 
-- **Commercial product direction:** as CPO/COO at ORANGEAR/TapMedia, I led a Product organisation of 20+ PMs and owned pricing, packaging, go-to-market and P&L. I helped evolve an internal platform into a commercial B2B SaaS proposition in response to customer demand.
+- **Commercial product direction:** as CPO/COO at ORANGEAR/TapMedia, I led a Product organisation of up to 20 PMs and owned pricing, packaging, go-to-market and P&L. I helped evolve an internal platform into a commercial B2B SaaS proposition in response to customer demand.
 - **From idea to a paid AI product:** at AUTODOC, I conceived and personally built the original AI Mechanic prototype, then led the team's production delivery and paid launch across 22 markets. Usage was associated with approximately 23% higher average order value.
 
 ## Products I build and co-build
